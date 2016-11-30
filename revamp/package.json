@@ -1,0 +1,12 @@
+{
+  "name": "studentcouncil",
+  "version": "1.0.0",
+  "description": "- Developed by     - Team Student Council IIITD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
